@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align = "center">
+	<img src = "https://github-readme-stats.vercel.app/api?username=IRdotAI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F4" alt = "Snake Game"/>
+</p>
+
+<p align = "center">
 	<a href="https://u8views.com/github/IRdotAI"><img src="https://u8views.com/api/v1/github/profiles/71939466/views/day-week-month-total-count.svg"></a>
 </p>
 <p align = "center">
@@ -20,4 +24,5 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
+
 
