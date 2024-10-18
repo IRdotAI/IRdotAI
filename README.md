@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  </p>
  
 ```python
-class AbhigyanTrips():
+class RdotA():
     
   def __init__(self):
     self.name = "UNKOWN";
