@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align = "center">
-	<img src = "https://github-readme-stats.vercel.app/api?username=IRdotAI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2234AE&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt = "Snake Game"/>
-</p>
 
 <p align = "center">
 	<a href="https://u8views.com/github/IRdotAI"><img src="https://u8views.com/api/v1/github/profiles/71939466/views/day-week-month-total-count.svg"></a>
@@ -25,4 +22,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-
+<p align = "center">
+	<img src = "https://github-readme-stats.vercel.app/api?username=IRdotAI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2234AE&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt = "Snake Game"/>
+</p>
