@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
 	<a href="https://u8views.com/github/IRdotAI"><img src="https://u8views.com/api/v1/github/profiles/71939466/views/day-week-month-total-count.svg"></a>
-</p>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
